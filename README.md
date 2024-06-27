@@ -14,3 +14,6 @@ Default option is 1. Which is Chinese.
 
 By setting to 0 for English.
 
+![image](https://github.com/XKaguya/ShowAmmo/assets/96401952/67163beb-d41a-492a-b67e-c6b078644d98)
+
+
